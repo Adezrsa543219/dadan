@@ -12,5 +12,5 @@
     { "src": "/gaffar", "dest": "/gaffar.js" },
     { "src": "/umar", "dest": "/umar.js" },
     { "src": "/farhan", "dest": "/farhan.js" }
-  ]
+  ]"src": "/tahir", "dest": "/tahir.js"
 }
