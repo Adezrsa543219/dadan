@@ -11,6 +11,6 @@
     { "src": "/sultan", "dest": "/sultan.js" },
     { "src": "/gaffar", "dest": "/gaffar.js" },
     { "src": "/umar", "dest": "/umar.js" },
-    { "src": "/faisal", "dest": "/faisal.js" }
+    { "src": "/farhan", "dest": "/farhan.js" }
   ]
 }
